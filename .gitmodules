@@ -1,0 +1,3 @@
+[submodule "fmt_scripts"]
+	path = fmt_scripts
+	url = https://github.com/ichisadashioko/scripts
